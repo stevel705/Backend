@@ -11,4 +11,3 @@
 7. Развлекаться :)
 
 ### Ссылка на заготовки - https://github.com/Ural-Digital-Weekend/Backend-Snippets
-
